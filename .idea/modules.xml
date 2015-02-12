@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../openkad/openkad/openkad.iml" filepath="$PROJECT_DIR$/../openkad/openkad/openkad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shades.iml" filepath="$PROJECT_DIR$/shades.iml" />
+    </modules>
+  </component>
+</project>
